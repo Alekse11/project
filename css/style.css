@@ -1451,6 +1451,7 @@ input[type="search"]:focus {
 	.search,
 	.waxom-you,
 	.aside-wrap,
+	.mobile,
 	.information,
 	.footer-big {
 		display: none;
